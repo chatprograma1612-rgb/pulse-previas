@@ -349,8 +349,8 @@ $('phName').textContent=C.nome;
 function upd(){const txt=`Olá, ${C.nome}! Quero agendar ${dn[selD.getDay()]} ${selD.getDate()}/${selD.getMonth()+1}${selT?' às '+selT:''}.`;$('bookbtn').href=wa(txt);$('phMsg').textContent=txt}
 document.querySelectorAll('#days .chip').forEach(c=>c.onclick=()=>{document.querySelectorAll('#days .chip').forEach(x=>x.classList.remove('on'));c.classList.add('on');selD=days[c.dataset.i];upd()});
 document.querySelectorAll('#times .chip').forEach(c=>c.onclick=e=>{document.querySelectorAll('#times .chip').forEach(x=>x.classList.remove('on'));c.classList.add('on');selT=c.dataset.h;upd();burst(e.clientX,e.clientY)});upd();
-$('ratingline').textContent=C.notaTexto;
-$('quotes').innerHTML=C.depoimentos.map((q,i)=>`<div class="q reveal" style="transition-delay:${i*.1}s"><div class="stars">★★★★★</div><p>“${q.texto}”</p><small>${q.nome}</small></div>`).join('');
+if($('ratingline'))$('ratingline').textContent=C.notaTexto;
+if(!C.depoimentos.length)$('depoimentos').remove();else $('quotes').innerHTML=C.depoimentos.map((q,i)=>`<div class="q reveal" style="transition-delay:${i*.1}s"><div class="stars">★★★★★</div><p>“${q.texto}”</p><small>${q.nome}</small></div>`).join('');
 $('map').src=`https://www.google.com/maps?q=${encodeURIComponent(C.endereco)}&output=embed`;
 $('info').innerHTML=`<p><b>📍 Endereço</b><br>${C.endereco}</p><p><b>🕒 Horário</b><br>${C.horarioTexto}</p><p><b>📱 Instagram</b><br>@${C.instagram}</p><a class="btn" style="margin-top:12px" target="_blank" href="https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(C.endereco)}">🧭 Traçar rota</a>`;
 $('faq').innerHTML=C.faq.map(f=>`<details><summary>${f[0]}</summary><p>${f[1]}</p></details>`).join('');
