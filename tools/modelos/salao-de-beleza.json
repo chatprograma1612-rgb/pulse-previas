@@ -1,0 +1,144 @@
+{
+ "whatsapp": "5521999999999",
+ "cidade": "Niterói - RJ",
+ "endereco": "Rua Exemplo, 123 - Icaraí, Niterói - RJ",
+ "horarioTexto": "Terça a sábado, 9h às 19h",
+ "diasAtendimento": [
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "horarios": [
+  "09:00",
+  "10:30",
+  "13:00",
+  "14:30",
+  "16:00",
+  "17:30"
+ ],
+ "nota": "4,8",
+ "notaTexto": "Nota 4,8 no Google (exemplo)",
+ "mostrarSeloPrevia": true,
+ "nome": "Salão Duda",
+ "nicho": "Salão de beleza",
+ "instagram": "salaoduda",
+ "titulo": "Cabelo dos sonhos <em>sem complicação</em>",
+ "subtitulo": "Corte, coloração, escova e tratamentos com horário marcado. Veja tudo, escolha o dia e confirme no WhatsApp.",
+ "cores": {
+  "principal": "#8b3dff",
+  "clara": "#d6bfff",
+  "fundo": "#0e0819",
+  "suave": "#1f1336"
+ },
+ "fotoCapa": "img/agenda_sF.jpg",
+ "numeros": [
+  [
+   2500,
+   "atendimentos por ano",
+   "+"
+  ],
+  [
+   4.8,
+   "nota no Google",
+   ""
+  ],
+  [
+   12,
+   "anos de experiência",
+   ""
+  ]
+ ],
+ "servicos": [
+  {
+   "icone": "✂️",
+   "nome": "Corte feminino",
+   "duracao": "1h",
+   "desc": "Inclui lavagem e finalização.",
+   "preco": "R$ 90"
+  },
+  {
+   "icone": "🎨",
+   "nome": "Coloração",
+   "duracao": "2h",
+   "desc": "Cor uniforme com produtos premium.",
+   "preco": "R$ 180"
+  },
+  {
+   "icone": "🌟",
+   "nome": "Mechas / luzes",
+   "duracao": "3h",
+   "desc": "Iluminado natural ou platinado.",
+   "preco": "a partir de R$ 280"
+  },
+  {
+   "icone": "💧",
+   "nome": "Hidratação + escova",
+   "duracao": "1h30",
+   "desc": "Brilho e maciez imediatos.",
+   "preco": "R$ 110"
+  }
+ ],
+ "faq": [
+  [
+   "Atendem sem hora marcada?",
+   "Atendemos encaixes quando há horário livre, mas recomendamos agendar."
+  ],
+  [
+   "Posso remarcar?",
+   "Pode, com até 24h de antecedência pelo WhatsApp."
+  ],
+  [
+   "Quais formas de pagamento?",
+   "Pix, débito e crédito em até 3x."
+  ],
+  [
+   "Precisa pagar sinal?",
+   "Para garantir o horário pedimos um sinal de 30% via Pix, descontado no dia."
+  ]
+ ],
+ "fraseFinal": "Seu horário <em>está esperando você</em>",
+ "portfolio": [
+  {
+   "cat": "Salão",
+   "foto": "img/agenda_sA2c.jpg"
+  },
+  {
+   "cat": "Atendimento",
+   "foto": "img/agenda_sB.jpg"
+  },
+  {
+   "cat": "Atendimento",
+   "foto": "img/agenda_sE.jpg"
+  },
+  {
+   "cat": "Salão",
+   "foto": "img/agenda_sC.jpg"
+  },
+  {
+   "cat": "Atendimento",
+   "foto": "img/agenda_sD.jpg"
+  },
+  {
+   "cat": "Salão",
+   "foto": "img/agenda_sF.jpg"
+  }
+ ],
+ "depoimentos": [
+  {
+   "texto": "Saí com o cabelo que eu queria há anos!",
+   "nome": "Fernanda S. (exemplo)"
+  },
+  {
+   "texto": "Equipe atenciosa e salão lindo, recomendo.",
+   "nome": "Carla M. (exemplo)"
+  },
+  {
+   "texto": "Agendar pelo site foi muito mais rápido que ligar.",
+   "nome": "Juliana R. (exemplo)"
+  }
+ ],
+ "slug": "salao-de-beleza",
+ "pasta": "modelos"
+}

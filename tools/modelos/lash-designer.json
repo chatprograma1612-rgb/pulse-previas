@@ -1,0 +1,136 @@
+{
+ "whatsapp": "5521999999999",
+ "cidade": "Niterói - RJ",
+ "endereco": "Rua Exemplo, 123 - Icaraí, Niterói - RJ",
+ "horarioTexto": "Terça a sábado, 9h às 19h",
+ "diasAtendimento": [
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "horarios": [
+  "09:00",
+  "10:30",
+  "13:00",
+  "14:30",
+  "16:00",
+  "17:30"
+ ],
+ "nota": "4,9",
+ "notaTexto": "Nota 4,9 no Google (exemplo)",
+ "mostrarSeloPrevia": true,
+ "nome": "Ju Lash Studio",
+ "nicho": "Lash designer",
+ "instagram": "julashstudio",
+ "titulo": "Olhar marcante, <em>leve e natural</em>",
+ "subtitulo": "Extensão fio a fio, volume russo e lash lifting. Escolha o estilo, veja o valor e garanta seu horário.",
+ "cores": {
+  "principal": "#b9825a",
+  "clara": "#f3d9c4",
+  "fundo": "#120c08",
+  "suave": "#2a1d14"
+ },
+ "fotoCapa": "img/lash.jpg",
+ "numeros": [
+  [
+   900,
+   "olhares transformados",
+   "+"
+  ],
+  [
+   4.9,
+   "nota no Google",
+   ""
+  ],
+  [
+   3,
+   "técnicas certificadas",
+   ""
+  ]
+ ],
+ "servicos": [
+  {
+   "icone": "👁️",
+   "nome": "Fio a fio",
+   "duracao": "2h",
+   "desc": "Efeito natural para o dia a dia.",
+   "preco": "R$ 160"
+  },
+  {
+   "icone": "🌙",
+   "nome": "Volume russo",
+   "duracao": "2h30",
+   "desc": "Olhar cheio e marcante.",
+   "preco": "R$ 220"
+  },
+  {
+   "icone": "🪄",
+   "nome": "Lash lifting",
+   "duracao": "1h",
+   "desc": "Curvatura nos seus próprios cílios.",
+   "preco": "R$ 120"
+  },
+  {
+   "icone": "🔁",
+   "nome": "Manutenção",
+   "duracao": "1h30",
+   "desc": "Até 20 dias após a aplicação.",
+   "preco": "R$ 100"
+  }
+ ],
+ "faq": [
+  [
+   "Quanto tempo dura a extensão?",
+   "De 15 a 20 dias, com manutenção para manter o volume."
+  ],
+  [
+   "Posso remarcar?",
+   "Pode, com até 24h de antecedência pelo WhatsApp."
+  ],
+  [
+   "Quais formas de pagamento?",
+   "Pix, débito e crédito em até 3x."
+  ],
+  [
+   "Precisa pagar sinal?",
+   "Para garantir o horário pedimos um sinal de 30% via Pix, descontado no dia."
+  ]
+ ],
+ "fraseFinal": "Seu novo olhar <em>está a um clique</em>",
+ "portfolio": [
+  {
+   "cat": "Studio",
+   "foto": "img/lash.jpg"
+  },
+  {
+   "cat": "Atendimento",
+   "foto": "img/nail2_c1.jpg"
+  },
+  {
+   "cat": "Studio",
+   "foto": "img/nail2_e1.jpg"
+  },
+  {
+   "cat": "Atendimento",
+   "foto": "img/nail2_d1.jpg"
+  }
+ ],
+ "depoimentos": [
+  {
+   "texto": "Acordo pronta todo dia, amei o resultado natural.",
+   "nome": "Fernanda S. (exemplo)"
+  },
+  {
+   "texto": "A Ju é super cuidadosa, nem senti a aplicação.",
+   "nome": "Carla M. (exemplo)"
+  },
+  {
+   "texto": "Ver o valor antes no site me deu confiança pra marcar.",
+   "nome": "Juliana R. (exemplo)"
+  }
+ ],
+ "slug": "lash-designer",
+ "pasta": "modelos"
+}

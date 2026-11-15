@@ -1,0 +1,132 @@
+{
+ "whatsapp": "5521999999999",
+ "cidade": "Niterói - RJ",
+ "endereco": "Rua Exemplo, 123 - Icaraí, Niterói - RJ",
+ "horarioTexto": "Terça a sábado, 9h às 19h",
+ "diasAtendimento": [
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "horarios": [
+  "09:00",
+  "10:30",
+  "13:00",
+  "14:30",
+  "16:00",
+  "17:30"
+ ],
+ "nota": "5,0",
+ "notaTexto": "Nota 5,0 no Google (exemplo)",
+ "mostrarSeloPrevia": true,
+ "nome": "Camila Estética",
+ "nicho": "Clínica de estética",
+ "instagram": "camilaestetica",
+ "titulo": "Pele saudável, <em>autoestima em dia</em>",
+ "subtitulo": "Limpeza de pele, peeling, drenagem e protocolos faciais com avaliação personalizada. Agende sua avaliação.",
+ "cores": {
+  "principal": "#00a389",
+  "clara": "#b2f1e4",
+  "fundo": "#04110f",
+  "suave": "#0d2622"
+ },
+ "fotoCapa": "img/estetica.jpg",
+ "numeros": [
+  [
+   1500,
+   "protocolos realizados",
+   "+"
+  ],
+  [
+   5,
+   "nota no Google",
+   ",0"
+  ],
+  [
+   8,
+   "anos de clínica",
+   ""
+  ]
+ ],
+ "servicos": [
+  {
+   "icone": "🫧",
+   "nome": "Limpeza de pele",
+   "duracao": "1h30",
+   "desc": "Extração, máscara e hidratação.",
+   "preco": "R$ 150"
+  },
+  {
+   "icone": "🍃",
+   "nome": "Drenagem linfática",
+   "duracao": "1h",
+   "desc": "Reduz inchaço e retenção.",
+   "preco": "R$ 120"
+  },
+  {
+   "icone": "✨",
+   "nome": "Peeling",
+   "duracao": "45 min",
+   "desc": "Renovação e uniformização da pele.",
+   "preco": "R$ 180"
+  },
+  {
+   "icone": "📋",
+   "nome": "Avaliação facial",
+   "duracao": "30 min",
+   "desc": "Plano feito para a sua pele.",
+   "preco": "Gratuita"
+  }
+ ],
+ "faq": [
+  [
+   "A avaliação é paga?",
+   "A primeira avaliação facial é gratuita."
+  ],
+  [
+   "Posso remarcar?",
+   "Pode, com até 24h de antecedência pelo WhatsApp."
+  ],
+  [
+   "Quais formas de pagamento?",
+   "Pix, débito e crédito em até 3x."
+  ],
+  [
+   "Precisa pagar sinal?",
+   "Para garantir o horário pedimos um sinal de 30% via Pix, descontado no dia."
+  ]
+ ],
+ "fraseFinal": "Comece hoje <em>o cuidado que você merece</em>",
+ "portfolio": [
+  {
+   "cat": "Clínica",
+   "foto": "img/estetica.jpg"
+  },
+  {
+   "cat": "Atendimento",
+   "foto": "img/nail2_c1.jpg"
+  },
+  {
+   "cat": "Clínica",
+   "foto": "img/nail2_e1.jpg"
+  }
+ ],
+ "depoimentos": [
+  {
+   "texto": "Minha pele mudou depois do protocolo, amei!",
+   "nome": "Fernanda S. (exemplo)"
+  },
+  {
+   "texto": "Ambiente calmo e profissional, me senti segura.",
+   "nome": "Carla M. (exemplo)"
+  },
+  {
+   "texto": "Consegui ver tudo e marcar a avaliação pelo site.",
+   "nome": "Juliana R. (exemplo)"
+  }
+ ],
+ "slug": "estetica",
+ "pasta": "modelos"
+}

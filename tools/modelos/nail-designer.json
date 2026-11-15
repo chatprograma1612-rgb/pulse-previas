@@ -1,0 +1,144 @@
+{
+ "whatsapp": "5521999999999",
+ "cidade": "Niterói - RJ",
+ "endereco": "Rua Exemplo, 123 - Icaraí, Niterói - RJ",
+ "horarioTexto": "Terça a sábado, 9h às 19h",
+ "diasAtendimento": [
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "horarios": [
+  "09:00",
+  "10:30",
+  "13:00",
+  "14:30",
+  "16:00",
+  "17:30"
+ ],
+ "nota": "4,9",
+ "notaTexto": "Nota 4,9 no Google (exemplo)",
+ "mostrarSeloPrevia": true,
+ "nome": "Bia Nails",
+ "nicho": "Nail designer",
+ "instagram": "bianails",
+ "titulo": "Unhas impecáveis, <em>do jeito que você sonhou</em>",
+ "subtitulo": "Alongamento em gel, fibra de vidro e blindagem com acabamento de vitrine. Veja os valores e agende em segundos.",
+ "cores": {
+  "principal": "#d81b60",
+  "clara": "#f8bbd0",
+  "fundo": "#14070f",
+  "suave": "#2a0f1e"
+ },
+ "fotoCapa": "img/nail2_d1.jpg",
+ "numeros": [
+  [
+   1200,
+   "clientes atendidas",
+   "+"
+  ],
+  [
+   4.9,
+   "nota no Google",
+   ""
+  ],
+  [
+   21,
+   "dias de duração",
+   ""
+  ]
+ ],
+ "servicos": [
+  {
+   "icone": "💅",
+   "nome": "Alongamento em gel",
+   "duracao": "2h30",
+   "desc": "Amendoado, bailarina ou quadrado.",
+   "preco": "R$ 180"
+  },
+  {
+   "icone": "✨",
+   "nome": "Manutenção do gel",
+   "duracao": "1h30",
+   "desc": "Até 21 dias após a aplicação.",
+   "preco": "R$ 120"
+  },
+  {
+   "icone": "🛡️",
+   "nome": "Blindagem",
+   "duracao": "1h",
+   "desc": "Unhas naturais mais fortes.",
+   "preco": "R$ 80"
+  },
+  {
+   "icone": "🎨",
+   "nome": "Nail art",
+   "duracao": "+20 min",
+   "desc": "Desenhos, francesinha, pedrarias.",
+   "preco": "a partir de R$ 15"
+  }
+ ],
+ "faq": [
+  [
+   "Quanto tempo dura o alongamento?",
+   "Em média 21 dias. Depois é só fazer a manutenção."
+  ],
+  [
+   "Posso remarcar?",
+   "Pode, com até 24h de antecedência pelo WhatsApp."
+  ],
+  [
+   "Quais formas de pagamento?",
+   "Pix, débito e crédito em até 3x."
+  ],
+  [
+   "Precisa pagar sinal?",
+   "Para garantir o horário pedimos um sinal de 30% via Pix, descontado no dia."
+  ]
+ ],
+ "fraseFinal": "Suas próximas unhas <em>começam aqui</em>",
+ "portfolio": [
+  {
+   "cat": "Gel",
+   "foto": "img/unhas.jpg"
+  },
+  {
+   "cat": "Atendimento",
+   "foto": "img/nail2_f1.jpg"
+  },
+  {
+   "cat": "Gel",
+   "foto": "img/nail_b5.jpg"
+  },
+  {
+   "cat": "Nail art",
+   "foto": "img/nail_l1.jpg"
+  },
+  {
+   "cat": "Studio",
+   "foto": "img/nail2_e1.jpg"
+  },
+  {
+   "cat": "Atendimento",
+   "foto": "img/nail_two.jpg"
+  }
+ ],
+ "depoimentos": [
+  {
+   "texto": "Minhas unhas nunca duraram tanto, amei o formato!",
+   "nome": "Fernanda S. (exemplo)"
+  },
+  {
+   "texto": "Atendimento pontual e caprichado, virei cliente fixa.",
+   "nome": "Carla M. (exemplo)"
+  },
+  {
+   "texto": "Agendei pelo site em 1 minuto, super prático.",
+   "nome": "Juliana R. (exemplo)"
+  }
+ ],
+ "slug": "nail-designer",
+ "pasta": "modelos"
+}
