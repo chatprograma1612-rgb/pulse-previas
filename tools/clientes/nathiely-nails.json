@@ -1,0 +1,114 @@
+{
+ "whatsapp": "5521999999999",
+ "cidade": "",
+ "endereco": "",
+ "horarioTexto": "Terça a sábado, 9h às 19h",
+ "diasAtendimento": [
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "horarios": [
+  "09:00",
+  "10:30",
+  "13:00",
+  "14:30",
+  "16:00",
+  "17:30"
+ ],
+ "nota": "5,0",
+ "notaTexto": "O que as clientes dizem",
+ "mostrarSeloPrevia": true,
+ "nome": "Nathiely Nails",
+ "nicho": "Nail designer",
+ "instagram": "nathiely_.nails",
+ "titulo": "Unhas com <em>assinatura de alto padrão</em>",
+ "subtitulo": "Alongamento em gel, blindagem e nail art autoral, com acabamento impecável e atendimento exclusivo. Escolha seu horário e viva a experiência.",
+ "cores": {
+  "principal": "#c9a27a",
+  "clara": "#efdcc6",
+  "fundo": "#0f0b09",
+  "suave": "#251b16"
+ },
+ "fotoCapa": "img/nail2_d1.jpg",
+ "numeros": [],
+ "servicos": [
+  {
+   "icone": "💅",
+   "nome": "Alongamento em gel",
+   "duracao": "2h30",
+   "desc": "Formato personalizado: amendoado, bailarina ou quadrado.",
+   "preco": "R$ 180"
+  },
+  {
+   "icone": "✨",
+   "nome": "Manutenção do gel",
+   "duracao": "1h30",
+   "desc": "Até 21 dias após a aplicação.",
+   "preco": "R$ 120"
+  },
+  {
+   "icone": "🛡️",
+   "nome": "Blindagem",
+   "duracao": "1h",
+   "desc": "Unhas naturais mais fortes.",
+   "preco": "R$ 80"
+  },
+  {
+   "icone": "🎨",
+   "nome": "Nail art",
+   "duracao": "+20 min",
+   "desc": "Desenhos, francesinha, pedrarias.",
+   "preco": "a partir de R$ 15"
+  }
+ ],
+ "faq": [
+  [
+   "Quanto tempo dura o alongamento?",
+   "Em média 21 dias. Depois é só fazer a manutenção."
+  ],
+  [
+   "Posso remarcar?",
+   "Pode, com até 24h de antecedência pelo WhatsApp."
+  ],
+  [
+   "Quais formas de pagamento?",
+   "Pix, débito e crédito em até 3x."
+  ],
+  [
+   "Precisa pagar sinal?",
+   "Para garantir o horário pedimos um sinal de 30% via Pix, descontado no dia."
+  ]
+ ],
+ "fraseFinal": "Seu momento de <em>luxo</em> começa aqui",
+ "portfolio": [
+  {
+   "cat": "Gel",
+   "foto": "img/unhas.jpg"
+  },
+  {
+   "cat": "Atendimento",
+   "foto": "img/nail2_f1.jpg"
+  },
+  {
+   "cat": "Gel",
+   "foto": "img/nail_b5.jpg"
+  },
+  {
+   "cat": "Nail art",
+   "foto": "img/nail_l1.jpg"
+  },
+  {
+   "cat": "Studio",
+   "foto": "img/nail2_e1.jpg"
+  },
+  {
+   "cat": "Atendimento",
+   "foto": "img/nail_two.jpg"
+  }
+ ],
+ "depoimentos": [],
+ "slug": "nathiely-nails"
+}
